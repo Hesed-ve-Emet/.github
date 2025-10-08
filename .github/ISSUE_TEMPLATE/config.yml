@@ -10,4 +10,4 @@ issue_types:
   - name: "Feature"
     description: "A feature or idea for the project."
     color: "e81cb9" # Pink
-    template: "feature.md"
+    template: "feature_request.md"
