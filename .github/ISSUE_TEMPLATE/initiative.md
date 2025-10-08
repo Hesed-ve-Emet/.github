@@ -2,7 +2,7 @@
 name: Initiative
 about: Propose a larger effort or theme made up of multiple user stories or tasks
 title: "[INITIATIVE] "
-labels: ''
+labels: initiative
 assignees: ''
 
 ---
