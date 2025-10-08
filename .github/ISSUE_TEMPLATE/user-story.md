@@ -2,6 +2,7 @@
 name: User Story
 about: Describe an end-user need or requirement
 title: "[USER STORY] "
+type: "User Story"
 labels: user story
 assignees: ''
 
