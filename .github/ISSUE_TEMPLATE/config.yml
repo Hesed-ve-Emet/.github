@@ -7,3 +7,7 @@ issue_types:
     description: "A user-facing feature or requirement."
     color: "0e8a16" # Green
     template: "user-story.md"
+  - name: "Feature"
+    description: "A feature or idea for the project."
+    color: "e81cb9" # Pink
+    template: "feature.md"
