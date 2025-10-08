@@ -1,0 +1,9 @@
+issue_types:
+  - name: Initiative
+    description: "A high-level objective or a large body of work (Epic)."
+    color: "d93f0b" # Orange
+    template: "initiative.md"
+  - name: "User Story"
+    description: "A user-facing feature or requirement."
+    color: "0e8a16" # Green
+    template: "user_story.md"
